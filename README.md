@@ -1,6 +1,6 @@
 # Zen-Twilight-Installer-Script  
 
-Twilight Installer Script – A lightweight and customizable shell script to automate tarball installations on Linux.  
+Twilight Installer Script – A shell script to automate zen twilight build tarball installation on Linux.  
 
 ## Installation  
 
