@@ -95,7 +95,7 @@ fi
 touch $desktop_in_local_applications
 echo "
 [Desktop Entry]
-Name=Zen
+Name=Zen-twilight
 Keywords=web;browser;internet
 Exec=$executable_path %u
 Icon=$icon_path
